@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget{
             backgroundColor: Colors.blueAccent,
             centerTitle: true,
             title: Text("Title"),
+            leading: Icon(Icons.arrow_forward_rounded),
           ),
           body: Center(
             child: Container(
